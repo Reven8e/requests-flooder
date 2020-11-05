@@ -4,6 +4,7 @@
 Flood any server using proxies (educational uses only!)
 
 - pip/3 install requests
+- pip/3 install colorama
 
 
 ## Errors
