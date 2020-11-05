@@ -1,4 +1,4 @@
-# © Requests flooder- Made by Yuval Simon. For bogan.cool
+# © Requests flooder- Made by Yuval Simon. For www.bogan.cool
 
 import random, sys, os, time
 
